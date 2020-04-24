@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EarthQuakeDetector</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="google_map_key">AIzaSyDtRP7qkLRBSR9-DTBzU_grPTgc1JuG2OQ</string>
+</resources>
